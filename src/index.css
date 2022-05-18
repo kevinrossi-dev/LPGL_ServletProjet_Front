@@ -1,0 +1,23 @@
+header{
+    margin-bottom:50px;
+}
+
+.filters{
+    display: inline-block !important;
+}
+.searchBar{
+    width:90% !important;
+        display: inline-block !important;
+        margin-bottom: 20px;
+}
+.selectType {
+    width: 10% !important;
+    display:inline-block !important;
+}
+.card-link{
+    cursor:pointer
+}
+svg{
+    padding-right: 5px;
+    cursor:pointer;
+}
